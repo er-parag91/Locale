@@ -1,2 +1,0 @@
-# Locale
-Created with CodeSandbox
